@@ -7,7 +7,7 @@
     7  git config -- global user email 'jkcavaliere@gmail.com'
     8  curl -fsSL http://git.io/7UHtNA | sh
     9  curl -fsSL http://git.io/Fasb | sh
-   10  echo $PATH
+   10  echo $PATH  -- shows you the path
    11  uname
    12  git --version
    13  git config --global user.name 'Johanna Cavaliere'
