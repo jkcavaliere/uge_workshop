@@ -1,0 +1,67 @@
+    1  echo $EDITOR
+    2  echo $PATH
+    3  git --version
+    4  git config --global user.name 'YOUR FULL NAME'
+    5  git config --global user.email 'YOUR EMAIL ADDRESS'
+    6  git config --global user.name 'Johanna Cavaliere'
+    7  git config -- global user email 'jkcavaliere@gmail.com'
+    8  curl -fsSL http://git.io/7UHtNA | sh
+    9  curl -fsSL http://git.io/Fasb | sh
+   10  echo $PATH
+   11  uname
+   12  git --version
+   13  git config --global user.name 'Johanna Cavaliere'
+   14  git config --slobal user.email 'jkcavaliere@gmail.com'
+   15  git config --global user.email 'jkcavaliere@gmail.com'
+   16  pwd
+   17  cd /c
+   18  ls
+   19  ls -t changes the order by modification time
+   20  ls -l shows long format alphabetically (which is default)
+   21  ls -lt
+   22  r   reverses the order
+   23  ls -r
+   24  ls -rt
+   25  ls -rl
+   26  ls -man
+   27  man
+   28  man -ls
+   29  ls -man
+   30  man ls
+   31  man ls
+   32  ls --author
+   33  ls -c
+   34  ls -help
+   35  ls --help
+   36  ls -N
+   37  ls -s
+   38  cd /users
+   39  cd ~
+   40  pwd
+   41  ls
+   42  cd Recent/
+   43  ls
+   44  cd Pictures
+   45  cd Projects/
+   46  ls
+   47  cd
+   48  ls
+   49  cd Music/
+   50  ls
+   51  cd HPConnectedMusic desktop.ini
+   52  pwd
+   53  cd ..
+   54  cd ..
+   55  pwd
+   56  ls Downloads/
+   57  sub .
+   58  sub l
+   59  subl .
+   60  subl
+   61  subl
+   62  subl
+   63  history
+   64  history | less
+   65  man less
+   66  cd
+   67  history > moving_around.txt
